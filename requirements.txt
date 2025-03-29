@@ -5,5 +5,3 @@ pandas
 numpy
 joblib
 gunicorn
-gunicorn app:app
-flask
